@@ -1,1 +1,23 @@
+h1{
+  color: blue;
+  backgroud-color: yellow;
 
+}
+
+h2{
+  color:red;
+  backgroud-color:gray;
+  
+}
+
+h3{
+  color: yellow;
+  backgroud-color: brown;
+
+}
+
+p{
+  color:gray;
+  backgroud-color:magenta;
+
+}
