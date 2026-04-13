@@ -7,3 +7,7 @@ function mudar_conteudo_paragrafo(){
 document.getElementById("p").innerHTML = "Minha função de mudar o conteúdo funcionou!";
 
 }
+function mudar_estilo(){
+
+document.getElementById("paragrafo").style.textAlign = "right";
+}
